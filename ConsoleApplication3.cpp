@@ -1,8 +1,8 @@
-// na pewno nie jest piêkne ale dzia³a wiêc dla mnie tam git nie
-// nie chcia³em tego wrzucaæ na githaba bo w sumie po co ale ka¿dy coœ wrzuci³ to nie bd   p r z e c i ê t n y
+// na pewno nie jest piÃªkne ale dziaÂ³a wiÃªc dla mnie tam git nie
+// nie chciaÂ³em tego wrzucaÃ¦ na githaba bo w sumie po co ale kaÂ¿dy coÅ“ wrzuciÂ³ to nie bd   p r z e c i Ãª t n y
 
-#include "stdafx.h"
-#include "cstdlib"
+#include "stdafx.h" //po co, mozna usunac
+#include "cstdlib" //uÅ¼ywanie funkcji system() jest niebezpieczne elo
 #include <iostream>
 
 
