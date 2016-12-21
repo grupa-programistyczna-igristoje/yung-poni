@@ -19,3 +19,7 @@ int main()
 	imie();
 	return 0;
 }
+//////////////elvis edit////////////////
+/*wszystko jest dobrze w tym programie
+ale w zadaniu było napisane "(...)Następnie stwórz swoją własną funkcję, która otrzymuje ciąg znaków (imię)(...)"
+a twoja funkcja nie otrzymuje nic (linia 19) tylko sama nadaje i potem wyświetla ciąg znaków*/
