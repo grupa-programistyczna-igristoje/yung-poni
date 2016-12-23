@@ -1,5 +1,6 @@
 // ConsoleApplication4.cpp : Defines the entry point for the console application.
 //
+//po chuj tyle returnow? (oli)
 
 #include "stdafx.h"
 #include <iostream>
