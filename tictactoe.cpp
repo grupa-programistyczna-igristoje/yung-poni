@@ -1,6 +1,7 @@
 // MIFCIO GITHUB
 // Igristoje 2017 elo
-// wiem ze system ceeles ale jakos mnie to jebie. kalt sin.
+// wiem ze system ceeles ale jakos mnie to jebie; kalt sin.
+// i jeszcze zrobie singleplayer ale nie tera
 
 #include "stdafx.h"
 #include<iostream>
@@ -16,8 +17,10 @@ int graSingle();
 int main()
 {
 	cout << "\nK O L K O   I   K R Z Y Z Y K\n"<<endl;
+	
 	cout << "Wybierz ilosc graczy: ";
 	cin >> x;
+	
 	switch (x)
 	{
 	case 1:
@@ -26,8 +29,6 @@ int main()
 	case 2:
 		graSingle();
 		break;
-		
-
 	}
 
 }
