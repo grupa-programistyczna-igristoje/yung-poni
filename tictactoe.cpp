@@ -1,6 +1,6 @@
 // MIFCIO GITHUB
 // Igristoje 2017 elo
-// wiem ¿e system ceeles ale jakoœ mnie to jebie. ka³t sin
+// wiem ze system ceeles ale jakos mnie to jebie. kalt sin.
 
 #include "stdafx.h"
 #include<iostream>
